@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\bin\Debug\pictureGame.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\bin\Debug\pictureGame.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\bin\Debug\pictureGame.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\bin\Debug\pictureGame.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\obj\Debug\pictureGame.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\obj\Debug\pictureGame.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\obj\Debug\pictureGame.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\obj\Debug\pictureGame.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\obj\Debug\pictureGame.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\reviewAyden\pictureGame\pictureGame\obj\Debug\pictureGame.pdb
